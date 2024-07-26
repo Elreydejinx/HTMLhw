@@ -1,0 +1,36 @@
+img {
+    border-radius: 350px;
+    margin-left: 275px;
+
+}
+body{
+    background-color: burlywood;
+}
+
+h4{
+    text-align: center;
+    font-size: xx-large;
+    background-color: peru;
+    margin-right: 500px;
+    border-radius: 45px;
+}
+
+h4:hover{
+    color:aquamarine;
+}
+
+
+h1{
+    font-style: italic;
+    background-color: peru;
+    margin-right: 500px;
+    border-radius: 35px;
+    text-align: center;
+}
+a:hover{
+    color:yellow;
+}
+
+img:hover{
+    color: chocolate;
+}
